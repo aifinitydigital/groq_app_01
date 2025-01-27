@@ -62,8 +62,7 @@ def create_interface():
     
     with gr.Blocks(css=dark_theme_css + "footer {visibility: hidden}") as demo:
         gr.Markdown("# Legal Assistant: Indian Law")
-        gr.Markdown("""I am a legal assistant specialized in Indian Law and will help analyze your legal concerns. 
-                      I provide responses in both English and Telugu.""")
+        gr.Markdown("""I am a legal assistant specialized in Indian Law and will help analyze your legal concerns & draft a peition""")
         
         chatbot = gr.Chatbot(
             [],
