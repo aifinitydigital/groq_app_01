@@ -65,13 +65,16 @@ class QueryAssistant:
                 1. Only analyze the Current Question
                 2. Use Previous Conversation for context only
                 3. Only cite BNS sections from Document Context
-                4. Include Telugu Language translation
+                4. Include Tamil Language translation
+                5. Include Hindi Language translation
                 
                 Provide:
                 1. Legal analysis with BNS Section X citations
                 2. Draft petition if needed
                 3. Practical next steps
-                4. Telugu Language translation of the entire response""")
+                4. Tamil Language translation of the entire response
+                5. Hindi Language translation of entire response
+                 """)
             ])
             
             logger.info("Query Assistant initialized successfully")
