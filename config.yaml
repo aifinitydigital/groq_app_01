@@ -71,5 +71,6 @@ system_prompt: |
      - This is general legal information
 
   5. Translation:
-     Provide complete Telugu language translation of the entire response after the English version
+     Provide complete Tamil language language translation of the entire response after the English version
+     Provide complete Hindi language language translation of the entire response after the English version
   
